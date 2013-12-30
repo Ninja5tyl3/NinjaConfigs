@@ -18,10 +18,10 @@ UNIFORM	oreCertusae	854	0	5	8	25	75	true
 UNIFORM	oreAluminumtic	1475	5	5	7	4	45	true
 UNIFORM	oreDarkironfz	2175	0	4	4	2	7	true
 NORMAL	oreSaltpeterrc	458	1	16	6	8	35	false
-UNIFORM	atgAluminumtic	1475	0	5	4	128	170	true
+UNIFORM	atgAluminumtic	1475	5	5	4	128	170	true
 UNIFORM	atgApatitef	1398	0	6	10	100	200	true
 UNIFORM	atgcerusae	854	0	4	9	105	140	true
-UNIFORM	atgcoalvanilla	263	0	12	24	128	200	true
+UNIFORM	atgcoalvanilla	16	0	12	24	128	200	true
 UNIFORM	atgironvanilla	15	0	6	16	128	192	true
 UNIFORM	atgsilver	2001	2	2	5	195	220	true
 UNIFORM	atggoldvanilla	14	0	2	5	195	220	true
