@@ -1,0 +1,20 @@
+[
+  {
+    "address": "192.168.1.123",
+    "nick": "%USERNAME%",
+    "bot": {
+      "relayDeathMessages": false
+    },
+    "channels": [
+      {
+        "name": ""
+      },
+      {
+        "name": "#home"
+      },
+      {
+        "name": "#minecraft"
+      }
+    ]
+  }
+]
